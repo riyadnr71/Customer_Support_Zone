@@ -1,0 +1,92 @@
+[
+  {
+    "id": 1,
+    "title": "Unable to login",
+    "description": "Customer reports being unable to login with correct credentials.",
+    "customer": "John Doe",
+    "priority": "High",
+    "status": "Open",
+    "createdAt": "2025-09-25"
+  },
+  {
+    "id": 2,
+    "title": "Payment not processed",
+    "description": "Payment failed but money deducted from customer's account.",
+    "customer": "Alice Smith",
+    "priority": "High",
+    "status": "Pending",
+    "createdAt": "2025-09-24"
+  },
+  {
+    "id": 3,
+    "title": "Error 404 on dashboard",
+    "description": "Dashboard shows 404 error intermittently.",
+    "customer": "Michael Brown",
+    "priority": "Medium",
+    "status": "Open",
+    "createdAt": "2025-09-23"
+  },
+  {
+    "id": 4,
+    "title": "Request for refund",
+    "description": "Customer wants a refund for order #12345.",
+    "customer": "Emily Johnson",
+    "priority": "High",
+    "status": "Resolved",
+    "createdAt": "2025-09-22"
+  },
+  {
+    "id": 5,
+    "title": "App crashes on startup",
+    "description": "Mobile app crashes immediately after opening.",
+    "customer": "David Wilson",
+    "priority": "Critical",
+    "status": "In Progress",
+    "createdAt": "2025-09-25"
+  },
+  {
+    "id": 6,
+    "title": "Unable to reset password",
+    "description": "Password reset link not working.",
+    "customer": "Sophia Martinez",
+    "priority": "Medium",
+    "status": "Open",
+    "createdAt": "2025-09-24"
+  },
+  {
+    "id": 7,
+    "title": "Delayed order delivery",
+    "description": "Order #54321 not delivered within promised time.",
+    "customer": "James Anderson",
+    "priority": "Low",
+    "status": "Pending",
+    "createdAt": "2025-09-23"
+  },
+  {
+    "id": 8,
+    "title": "Incorrect billing amount",
+    "description": "Customer billed $150 instead of $100.",
+    "customer": "Olivia Thomas",
+    "priority": "High",
+    "status": "Open",
+    "createdAt": "2025-09-22"
+  },
+  {
+    "id": 9,
+    "title": "Feature request: Dark mode",
+    "description": "Customer requests a dark mode feature in the app.",
+    "customer": "William Garcia",
+    "priority": "Low",
+    "status": "Closed",
+    "createdAt": "2025-09-21"
+  },
+  {
+    "id": 10,
+    "title": "Unable to update profile",
+    "description": "Profile update fails with unknown error.",
+    "customer": "Emma Robinson",
+    "priority": "Medium",
+    "status": "In Progress",
+    "createdAt": "2025-09-25"
+  }
+]
