@@ -46,12 +46,13 @@ function App() {
     <>
     <Navber></Navber>
       {/* Banner */}
-      
+
       <Banner count={history.length} resolved={resolved.length} />
 
       <div className="max-w-[1200px] mx-auto mt-10 flex flex-col md:flex-row gap-6">
         
         {/* Left Section - Customer Tickets */}
+        
         <div className="w-full md:w-2/3">
           <h2 className="text-black font-bold mb-4">Customer Tickets</h2>
           <MainCard data={tickets} handleComplete={handleComplete} />
