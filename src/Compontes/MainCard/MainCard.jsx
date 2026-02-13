@@ -27,6 +27,7 @@ const MainCard = ({ data, setToggle, handleComplete }) => {
             </div>
 
             {/* Description */}
+            
             <p className="text-sm text-gray-600 mb-4">{customer.description}</p>
 
             {/* Footer */}
