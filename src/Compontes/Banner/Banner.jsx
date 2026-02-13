@@ -1,5 +1,5 @@
 import React from "react";
-import waveImg from "../../assets/vector1.png"; // তোমার image path দিও
+import waveImg from "../../assets/vector1.png";
 
 const Banner = ({ count, resolved }) => {
   return (
