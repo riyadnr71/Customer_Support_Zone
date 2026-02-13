@@ -46,6 +46,7 @@ function App() {
     <>
     <Navber></Navber>
       {/* Banner */}
+      
       <Banner count={history.length} resolved={resolved.length} />
 
       <div className="max-w-[1200px] mx-auto mt-10 flex flex-col md:flex-row gap-6">
